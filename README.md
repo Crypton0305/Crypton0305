@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw2n-wIlkoyzSqslyZLvDR87&ust=1721887783537000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIixr4aCv4cDFQAAAAAdAAAAABAE" alt="code">
+<img src=""D:\OneDrive\Desktop\programmer.gif"" alt="code">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crypton0305&label=Profile%20views&color=0e75b6&style=flat" alt="crypton0305" /> </p>
 
 
