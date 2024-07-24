@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayan ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src=""D:\OneDrive\Desktop\programmer.gif"" alt="code">
+<img  align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crypton0305&label=Profile%20views&color=0e75b6&style=flat" alt="crypton0305" /> </p>
 
 
