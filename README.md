@@ -16,6 +16,6 @@
 
 <p><img align="left" height="150"margin="2" src="https://github-readme-stats.vercel.app/api/top-langs?username=crypton0305&show_icons=true&locale=en&layout=compact" alt="crypton0305" /></p>
 
-<p><img align="bottom" src="https://github-readme-stats.vercel.app/api?username=crypton0305&show_icons=true&locale=en" alt="crypton0305" /></p>
+<p><img align="bottom" margin="2" src="https://github-readme-stats.vercel.app/api?username=crypton0305&show_icons=true&locale=en" alt="crypton0305" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crypton0305&" alt="crypton0305" /></p>
