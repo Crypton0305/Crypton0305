@@ -45,7 +45,7 @@ A STUDENT AND A PSSIONATE WEB DEV AND AI/DATA ENGINEER
 
 🌱 Expanding my expertise in **Cloud Technologies & DevOps**
 
-📫 Reach me at **asharib920@gmail.com**
+📫 Reach me at **ayyanahmed328@gmail.com**
 
 </td>
 <td width="40%" valign="top">
