@@ -71,7 +71,7 @@ A STUDENT AND A PASSIONATE WEB DEV AND AI/DATA ENGINEER
 
 ### 📊 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=Ashrib&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Crypton0305&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
 
