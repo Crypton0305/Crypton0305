@@ -19,13 +19,6 @@ A STUDENT AND A PASSIONATE WEB DEV AND AI/DATA ENGINEER
 <tr>
 <td>
 
-🛠️ Stack: MongoDB • Express • React • Node.js
-
-</td>
-</tr>
-<tr>
-<td>
-
 ⚡ Mindset: Ship fast, iterate faster
 
 </td>
