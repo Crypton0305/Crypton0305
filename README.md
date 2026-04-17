@@ -1,11 +1,10 @@
 <div align="center">
   
 # Hi 👋, I'm AYAN AHMED
-A STUDENT AND A PSSIONATE WEB DEV AND AI/DATA ENGINEER
+A STUDENT AND A PASSIONATE WEB DEV AND AI/DATA ENGINEER
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Applications;Open+to+Exciting+Opportunities" alt="Typing SVG" />
-><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount+Grid+Double&weight=500&size=19&pause=1000&color=FFFFFF&repeat=false&width=435&separator=%3C&lines=console.log('Write+code+that+matters');" alt="Typing SVG" />
+
 </div>
 
 ---
