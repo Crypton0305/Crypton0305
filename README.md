@@ -35,8 +35,6 @@ A STUDENT AND A PASSIONATE WEB DEV AND AI/DATA ENGINEER
 
 
 
-🌱 Expanding my expertise in **Cloud Technologies & DevOps**
-
 📫 Reach me at **ayyanahmed328@gmail.com**
 
 </td>
